@@ -1,1 +1,2 @@
 This is my first file 
+Remember that every project needs a new directory. 
