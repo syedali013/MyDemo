@@ -1,2 +1,6 @@
 This is my first file 
 Remember that every project needs a new directory. 
+So updating whatever we put here to github is a 3 step method.
+1. git add . 
+2. git commit -m"write whatever here" 
+3. git push -u origin master 
